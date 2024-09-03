@@ -43,22 +43,37 @@
   ## Time division duplexity
   - not all radio spectrum is allowed with frequency duplexed links
   - TDD uses a single radio channel for two-way communication by allocating different transmission times for each direction (uplink/downlink)
-    ![image](https://github.com/user-attachments/assets/444c6fed-9bec-4af5-bb9d-a0dd640926f0)
+    
+  ![image](https://github.com/user-attachments/assets/444c6fed-9bec-4af5-bb9d-a0dd640926f0)
 
     ## Radio channel-bandwidth
     - a radio signal that carries information uses a range of frequencies over which communication link is established.
     - radio channel = data pipe
     - wider = more data , narrow = less data
-      ![image](https://github.com/user-attachments/assets/38d4092a-5338-4e2b-bca8-31ba9d38e5b5)
+      
+   ![image](https://github.com/user-attachments/assets/38d4092a-5338-4e2b-bca8-31ba9d38e5b5)
 
  - when two adjacent cells use the same radio frequency at the same time , they create interference where the radio coverage overlaps
+
+   
    ![image](https://github.com/user-attachments/assets/9848a3b3-ccf3-4b3e-986f-f5eebfe6e9cd)
 
 ## MIMO
  - MULTIPLE INPUT MULTIPLE OUTPUT
  - maximun number of pipes is limited by the minimum of n & m
  - no. of pipes depends on the radio channel
-   ![image](https://github.com/user-attachments/assets/f0fcb444-017c-45c6-b6fb-b0d2eff3b0aa)
+
+   
+![image](https://github.com/user-attachments/assets/f0fcb444-017c-45c6-b6fb-b0d2eff3b0aa)
+
+## cellular concepts
+ - coverage area divided into cells
+ - each cell is served by a base station
+ - cells are designed to have overlapping coverage
+
+   
+   ![image](https://github.com/user-attachments/assets/807c2bb6-a1a4-4a79-a1a4-b2d07a4db863)
+
 
 
 
