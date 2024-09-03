@@ -74,6 +74,22 @@
    
    ![image](https://github.com/user-attachments/assets/807c2bb6-a1a4-4a79-a1a4-b2d07a4db863)
 
+   ## RAN (Radio Access Network)
+ - base stations are interconnected
+ - user communicates with one base station at any time
+
+   ![image](https://github.com/user-attachments/assets/403d33fb-0342-46c2-b8f0-31569f594c7b)
+
+   ## Protocols
+   - network protocols define an agreed upon set of rules governing the exchange of information
+   - two type of information:
+-control(aka signaling) - setup , reconfigure , and release the data link
+-data (aka traffic) - the actual information o be exchanged
+
+![image](https://github.com/user-attachments/assets/d0ef0ba4-4e18-4f0e-a9f9-fd1ebc70cba5)
+
+
+
 
 
 
