@@ -11,3 +11,8 @@
  - frequency{3khz - 300ghz}
  - wavelength{100km-1mm}
 
+## Radio signaal properties
+- travel at the speed of light ~ 300,000km/sec
+ ![image](https://github.com/user-attachments/assets/00f286f1-4b7a-4f6a-b171-011c06a351fa)
+
+
