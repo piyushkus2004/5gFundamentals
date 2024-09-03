@@ -86,6 +86,8 @@
 -control(aka signaling) - setup , reconfigure , and release the data link
 -data (aka traffic) - the actual information o be exchanged
 
+- Protocols re defined in layers(protocol stack)
+
 ![image](https://github.com/user-attachments/assets/d0ef0ba4-4e18-4f0e-a9f9-fd1ebc70cba5)
 
 
