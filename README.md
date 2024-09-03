@@ -21,5 +21,15 @@
 ## Analog and Digital Modulation
 - digital modulation is used for discrete or binary information represented by bits(0s and 1s)
 - analog modulation is used to transfer low b frequency based signal
+  ![image](https://github.com/user-attachments/assets/f73593da-ed93-40d3-b7b1-5981a251aee8)
+
+## Noise and interference
+- when information is sent over any wireless communication link noise and interference is introduced
+- noise - unwanted energy
+- interfrence - it is a form of energy 
+![image](https://github.com/user-attachments/assets/916dcffa-76bf-44b7-8ae6-a72430563cc9)
+
+## 
+
 
 
