@@ -51,6 +51,16 @@
     - wider = more data , narrow = less data
       ![image](https://github.com/user-attachments/assets/38d4092a-5338-4e2b-bca8-31ba9d38e5b5)
 
+ - when two adjacent cells use the same radio frequency at the same time , they create interference where the radio coverage overlaps
+   ![image](https://github.com/user-attachments/assets/9848a3b3-ccf3-4b3e-986f-f5eebfe6e9cd)
+
+## MIMO
+ - MULTIPLE INPUT MULTIPLE OUTPUT
+ - maximun number of pipes is limited by the minimum of n & m
+ - no. of pipes depends on the radio channel
+   ![image](https://github.com/user-attachments/assets/f0fcb444-017c-45c6-b6fb-b0d2eff3b0aa)
+
+
 
 
 
