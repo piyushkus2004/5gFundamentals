@@ -45,6 +45,13 @@
   - TDD uses a single radio channel for two-way communication by allocating different transmission times for each direction (uplink/downlink)
     ![image](https://github.com/user-attachments/assets/444c6fed-9bec-4af5-bb9d-a0dd640926f0)
 
+    ## Radio channel-bandwidth
+    - a radio signal that carries information uses a range of frequencies over which communication link is established.
+    - radio channel = data pipe
+    - wider = more data , narrow = less data
+      ![image](https://github.com/user-attachments/assets/38d4092a-5338-4e2b-bca8-31ba9d38e5b5)
+
+
 
 
 
