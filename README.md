@@ -29,7 +29,24 @@
 - interfrence - it is a form of energy 
 ![image](https://github.com/user-attachments/assets/916dcffa-76bf-44b7-8ae6-a72430563cc9)
 
-## 
+## Radio Spectrum
+- it simply the range of radio frequencies over which wireless communication takes places dor a specific purpose
+- RS of mobile phones - {450MHz to 3800MHz}
+- every country has government agencies responsible for its spectrum planning
+  ![image](https://github.com/user-attachments/assets/6dca53de-a4da-4187-9bc3-c6eb462447cb)
+## Frequency Division Duplexing (FDD)
+- mobile system uses fdd
+- pair of radio channel for two way communication
+- both side can transmit information at the same time on independent links
+  ![image](https://github.com/user-attachments/assets/dd2e2d80-06f7-4234-a6d5-9090b42852e3)
+
+  ## Time division duplexity
+  - not all radio spectrum is allowed with frequency duplexed links
+  - TDD uses a single radio channel for two-way communication by allocating different transmission times for each direction (uplink/downlink)
+    ![image](https://github.com/user-attachments/assets/444c6fed-9bec-4af5-bb9d-a0dd640926f0)
+
+
+
 
 
 
