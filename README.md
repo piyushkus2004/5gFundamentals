@@ -102,6 +102,25 @@
 
   ![image](https://github.com/user-attachments/assets/2a2ce8e7-e375-4b04-a2d9-ecd3215a5867)
 
+# LTE
+
+- LTE is long term evolution
+- 3GPP defines the specifications for 3g , 4g , 5g
+
+![image](https://github.com/user-attachments/assets/df513911-1572-43dc-aa7e-48e64be1effb)
+
+## key features LTE architecture 
+
+- seprate radio , packet core and services networks
+- evolution to common all-ip network
+- interoperability with 3g and other wireless network
+
+  ![image](https://github.com/user-attachments/assets/beadf8b4-7973-47cb-94b9-e70d322c45cc)
+
+  
+
+
+
 
 
 
