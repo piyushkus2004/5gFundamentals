@@ -91,6 +91,18 @@
 
 ![image](https://github.com/user-attachments/assets/d0ef0ba4-4e18-4f0e-a9f9-fd1ebc70cba5)
 
+# 1G to 4G 
+- 1g - introduced in 1980
+- technology introduced - Advanced Mobile Phone System
+- 2g - introduced in 1990
+- technology introduced - IS-95 and GSM
+- 3g - introduced in 2000
+- technology introduced - CDMA2000 & WCDMA
+- 4G - lte / lte advanced
+
+  ![image](https://github.com/user-attachments/assets/2a2ce8e7-e375-4b04-a2d9-ecd3215a5867)
+
+
 
 
 
