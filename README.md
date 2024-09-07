@@ -117,6 +117,28 @@
 
   ![image](https://github.com/user-attachments/assets/beadf8b4-7973-47cb-94b9-e70d322c45cc)
 
+
+# E-UTRAN provides users with radio access
+
+ ### evolved node b (enb)
+ - radio connection management
+ - radio resource allocation
+
+ ![image](https://github.com/user-attachments/assets/63902fbd-bb8b-41e6-8272-10cb324232fd)
+
+ 
+### mobile management entity (MME)
+
+ - user registration and authentication
+ - mobility management subscribers
+
+ ![image](https://github.com/user-attachments/assets/0eb46e1a-9081-4747-80ed-7160de20e4d4)
+
+
+ ![image](https://github.com/user-attachments/assets/3493593f-d572-4955-90d6-7deb13572faf)
+
+
+
   
 
 
