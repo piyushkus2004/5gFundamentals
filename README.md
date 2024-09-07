@@ -149,6 +149,18 @@
 
    ![image](https://github.com/user-attachments/assets/865979bc-ab0c-40b4-89c2-93b584f9dbc5)
 
+## scalable bandwidth
+- scalable bandwidth allows flexibility with lte deployment based spctrum availability
+
+  ![image](https://github.com/user-attachments/assets/df005c8a-b8e5-434f-9b8c-975c7b73ba2b)
+
+  ## lte data modulation
+  - lte support for multiple modulation schemes allows higherv data rate where coverage is good
+  - QPSK , 16-QAM , 64-QAM , 256QAM
+ 
+    ![image](https://github.com/user-attachments/assets/d1b61186-ee74-4f83-a516-b78066029a59)
+
+
    
 
 
