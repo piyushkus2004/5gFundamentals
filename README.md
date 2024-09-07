@@ -161,11 +161,17 @@
     ![image](https://github.com/user-attachments/assets/d1b61186-ee74-4f83-a516-b78066029a59)
 
   # MIMO operation
- - support for 2*2m 4*4 mimo and higher mimo orders 2or4 antennas at enodeb and moile devices
+ - support for 2 * 2m 4 * 4 mimo and higher mimo orders 2or4 antennas at enodeb and moile devices
  - single-user mimo can increase a single user throughput by up to 4x
  - multi user mimo can increase the throughput of the enode b
 
-   ![image](https://github.com/user-attachments/assets/1de6dcf3-defd-4cdb-8244-05d99e9c36b3)
+  ![image](https://github.com/user-attachments/assets/3d97f3a6-5202-4bf6-bd85-1b2f3b94015f)
+
+  ## Lte handover and mobility 
+  - only one serving cell
+  - hard handover based mobility
+  - x2 interface between enodesBs
+
 
 
 
