@@ -138,6 +138,21 @@
  ![image](https://github.com/user-attachments/assets/3493593f-d572-4955-90d6-7deb13572faf)
 
 
+## LTE air interface highlights 
+
+![image](https://github.com/user-attachments/assets/1424346a-19da-4b15-b567-38b1338938c0)
+
+### Duplexing options 
+ - Lte allows fdd and tdd transmission
+ - fdd provides operators capability to operate uplink and downlink in diferent system bandwidth
+ - tdd provides operator greater flexibility specturm utlixation for packet data application
+
+   ![image](https://github.com/user-attachments/assets/865979bc-ab0c-40b4-89c2-93b584f9dbc5)
+
+   
+
+
+
 
   
 
