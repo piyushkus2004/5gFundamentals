@@ -172,6 +172,10 @@
   - hard handover based mobility
   - x2 interface between enodesBs
 
+ # LTE operation
+ - lte is optimized to deliver packet data services
+ - always on connectivity'connection wuth multiple packet data networks 
+
 
 
 
