@@ -320,6 +320,38 @@
 
       ![image](https://github.com/user-attachments/assets/50dd459c-20e5-4f5d-b001-e7658ac2ff86)
 
+
+      ## Software Defined Networking (sdn)
+
+      - sdn is an emerging network architecture
+      - network control functions/tasks are decoupled from network devices
+      - migration of control from individual network devices / boxes into accesible distributed computing/functions
+      - undelying infrastructure can be abstracted for different appication and network services
+
+
+        ### Benefits
+          - centralized management and control of network devices
+          - rapid innovation on new network capabilities and service
+          - incresed network reliability and security
+          - more granual network control
+       
+       ## Network Slicing
+
+      - realizing different network functionalities on the same physical infrastructure meet  varied requirements of different service layers
+     
+        
+        ### benefits
+         - efficient resource allocation and utlization
+         - control of services
+       
+           ![image](https://github.com/user-attachments/assets/90d892ad-e009-46ab-aa4f-4257265cc2bb)
+
+## Mobile Edge Computing (MEC)
+- mec provides it services and cloud computing at edge of mobile network
+- low latency / high bandwidth
+- proximity / location awareness
+- real time insight into radio network information
+
       
 
 
