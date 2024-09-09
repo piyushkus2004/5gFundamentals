@@ -352,6 +352,84 @@
 - proximity / location awareness
 - real time insight into radio network information
 
+## 5G use cases
+
+![image](https://github.com/user-attachments/assets/add2e718-ef84-4dc6-aa86-40852c4a5b9c)
+
+### 5g NR : bringing new capabilities for massive iot
+
+- eMTC - scales down LTE to address the broadest range of iot cases
+- NB-iot - optimizes to lowest cost/power for delay-tolerant low thrughput iot use cases : evolving with new feature such as volte and positing support
+- 5g Massive iot - 3gfpp 5g NR further enhances massive iot with new capabilities sich rsma (resource spread multiple access) and multi hop mesh release
+
+![image](https://github.com/user-attachments/assets/0596b2f8-0a6a-467d-9e29-1b5b9f122537)
+
+
+![image](https://github.com/user-attachments/assets/1677a553-b063-439c-905b-1a1b36e1b187)
+
+
+# Wireless Edge for industrial IoT
+
+![image](https://github.com/user-attachments/assets/95c2533d-d658-48f3-bf3e-753e63106873)
+
+# Private 5g networks for industrial IoT use cases 
+
+![image](https://github.com/user-attachments/assets/6e6d56ed-e3c6-43c6-9dec-ec8cce841ff2)
+
+# 5G NR URLLC enables advanced industrial IoT applications
+
+- single network for entire factory
+- ultra reliable low latency
+- deterministic latency
+- unifid and global ecosystem
+- license and unlicensed spectrum
+- sub 6GHz and mmwave spectrum
+
+![image](https://github.com/user-attachments/assets/cdf58f95-51fa-48c3-b99d-4269584842dd)
+
+
+# 5G in Smart cities
+
+![image](https://github.com/user-attachments/assets/92adc952-f5c3-43ab-9d8a-14c2f13f6717)
+
+![image](https://github.com/user-attachments/assets/ad5fe3d8-0b77-4900-95ea-b575adf55aee)
+
+
+# 5G in AR/VR
+
+### 5G enhanced mobile broadband
+ - it is required to take VR/AR experiences to the next level
+ - extreme throughput - wih multi gbps
+ - ultra low latency - down to 1 ms
+ - uniform experience - event at a cell
+  
+     ![image](https://github.com/user-attachments/assets/2a4198ad-7b7e-4e52-bba6-a9730bf8ed7e)
+
+
+   ![image](https://github.com/user-attachments/assets/e94f0ee9-c64a-4d98-ad8e-d11f1df1d0c8)
+
+
+## Key Takeaways
+
+ - Data rate, latency, and spectral efficiency are key performance metrics for cellular networks.
+ - Bandwidth, coverage, and congestion affect data rate performance of a radio channel.
+ - Handoff is needed to support service continuity for users in a mobile communications system.
+ - LTE specifies key 4G features and is fully realized in Release 10.
+ - 5G NR is targeted to provide services in three areas: eMBB, URLLC, and M-IoT.
+ - 5G NR uses key technologies, such as: Flexible slots, Scalable numerology, Massive MIMO, and beamforming.
+ - New advancements of 5G will open up new service offerings.
+
+
+course - 5g by qualcomm
+
+
+
+
+
+
+ 
+
+
       
 
 
