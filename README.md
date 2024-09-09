@@ -235,6 +235,104 @@
   ![image](https://github.com/user-attachments/assets/f0cdd57d-e054-4a24-827c-a0c0ddc5c97a)
 
 
+  # 5g drivers and motivations
+
+
+![image](https://github.com/user-attachments/assets/3a4b3023-4f8c-4e6b-bf78-b618d38a8ab6)
+
+
+
+![image](https://github.com/user-attachments/assets/a487064b-f69c-4e01-be6e-90648af08dd4)
+
+## 5g network terminology and concepts
+ - gNodeB (gnb) - supports the NR as well as connectivity to NGC
+ - ng-eNode(ng-eNb) - next generation eNB that supports connectivity to epc and npc
+ - access management functions (amf) - supports ue's network access and manages its mobilty
+ - session managment function (smf) - support ip address allocation and connectivity
+
+   ![image](https://github.com/user-attachments/assets/b1067502-a1c7-4172-a6c8-ee3c12d7392f)
+
+## 5g nr waveforms
+- similar to LTE 5g uses ofdm-based waveforms
+
+  ![image](https://github.com/user-attachments/assets/da94c999-2ce9-4a62-8241-bb588662f8ed)
+
+- massive MIMO
+  
+-  5g nr employs massive mimo to mitigate the disadvantage of high frequency propagation
+-  massive mimo antennas arrays with large no. of elements instrinsically narrow beams
+
+  ![image](https://github.com/user-attachments/assets/69a3d0dc-172a-4699-98bc-128ad0f0d075)
+
+  - beam sweeping
+    
+  - a narrow beam does not provide coverage over a cell area
+  - beam sweepin allows the gnb to periodically steer one narrow beam to cover a ide area
+
+  ![image](https://github.com/user-attachments/assets/b924975a-be24-4c18-aa29-c60681201c86)
+
+
+## 5g nr architecture 
+
+  ![image](https://github.com/user-attachments/assets/d2af88cc-9c36-4ced-af7e-df412aa8a482)
+
+
+  ![image](https://github.com/user-attachments/assets/a0cf5b01-cc4b-4c78-9d44-2be3d2cb216c)
+
+
+  ## NSA 5g NR  accelerating 5g NR deployments
+
+  ![image](https://github.com/user-attachments/assets/ae08923e-7fe0-4685-b791-349377a4671a)
+
+  ## 5g next gen core (ngc) also part of 3gpp release 15
+
+  - configurable end to end connectivity per vertical
+  - modular specialized network function per services
+  - flexible subscripion model
+  - dynamic control and user planes with more functionally at the edge
+
+    ## key networking features
+    - nfv - network function vitualization
+    - sdn - software defined networking
+    - network slicing
+    - mec - mobile edge computing
+    ### 5g network architecture becomes more :
+
+    - software /hardware seprated
+    - cloud driven
+    - -programmable
+    - easily scalable
+    - orchestration flexible
+   
+      ![image](https://github.com/user-attachments/assets/8e1857d2-48e6-4ae6-965c-c7db8888e913)
+
+
+      ## Network Functions Vitualization (NFV)
+      - nfv aims to transform the way operators architect networks
+      - involves the implementation of network functions (NF) in software
+      - evolves staandard it virtualization technology to consolidate many networ equipment types onto industry standard high volume servers switches and storage
+     
+     ### benefits
+    - decoupling software from hardware
+    - flexible network function deployment
+    - dynamic operation
+   
+
+      ![image](https://github.com/user-attachments/assets/50dd459c-20e5-4f5d-b001-e7658ac2ff86)
+
+      
+
+
+      
+
+
+
+
+ 
+
+
+
+
 
 
 
