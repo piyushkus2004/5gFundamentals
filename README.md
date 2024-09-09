@@ -174,7 +174,70 @@
 
  # LTE operation
  - lte is optimized to deliver packet data services
- - always on connectivity'connection wuth multiple packet data networks 
+ - always on connectivity'connection wuth multiple packet data networks
+
+# The EPS bearer is an LTE Data connection
+- eps bearer is data pipe connection through the lte network , from the handset to the packet gateway
+  
+  ![image](https://github.com/user-attachments/assets/d55a39c7-3267-4807-bb92-4efa1aa73f55)
+
+
+  ![image](https://github.com/user-attachments/assets/b5544c8c-e0a0-491f-9d77-e273a82f5d5a)
+
+  # Access Point Name (APN)
+
+- Apn identifiesthe packet data connection and the services
+- one or more apns may be served by a p-gw
+
+  ## How operators provide voice service in 4g ?
+  - voice over LTE (voLTE)
+  - circuit switched fallback (csfb)
+  - voice over wi-fi (vowifi)
+
+  ![image](https://github.com/user-attachments/assets/6243b6ed-4c61-4089-9f75-b78db5248c59)
+
+  ## How does lte advanced imporve perfomance in rel 10
+  - air interface changes
+    carrier aggregation
+    enhanced mimo
+
+  _ system imporvements
+   hetrogeneous networks
+   small cells
+
+  ![image](https://github.com/user-attachments/assets/bb0f9e30-4331-4e78-949c-10bcc230f219)
+
+  ## Carrier Aggregation
+   - two to five "components carriers " (CC) aggregated into larger bandwidth
+   - permits use of 100mhz of specturm (5 x 20mhz)
+ 
+     ![image](https://github.com/user-attachments/assets/6a51fcd3-8709-4fff-8230-1348cd7a61ac)
+
+## Enhanced MIMO
+
+- up to 4x4 MIMO on uplink
+- up to 8x8 MIMo on downlink
+- higher efficiency increased capacity greater throughput
+
+  ![image](https://github.com/user-attachments/assets/76dde17a-b6eb-4e95-9e13-674e9ae1d56c)
+
+## LTE advanced 
+
+- unlicensed band 5ghz band
+- typically used for  wifi
+- LAA allows carrier aggregation b/w licensed and licensed bands
+- free capacity for operators
+- govened by usage regulayions
+
+  ![image](https://github.com/user-attachments/assets/67b9d649-6927-4f97-9140-3e063997e611)
+
+
+  ![image](https://github.com/user-attachments/assets/f0cdd57d-e054-4a24-827c-a0c0ddc5c97a)
+
+
+
+
+
 
 
 
